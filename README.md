@@ -1,4 +1,4 @@
-# Mini-Project---Amazon-Fine-Food-Review
+# Mini-Project-Amazon-Fine-Food-Reviews
 
 In this assignment, you will be working with the Amazon Fine Food Reviews Dataset
 
