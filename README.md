@@ -1,6 +1,10 @@
 # Mini-Project-Amazon-Fine-Food-Reviews
 
-In this assignment, you will be working with the Amazon Fine Food Reviews Dataset
+In this assignment, we were working with the Amazon Fine Food Reviews Dataset, we explored some NLP (natural language processing) techniques to 
+better understand the data, and you created a model that predicts the ‘Score’ column of the dataset.
+
+      We can only use the following prediction models, and report on the best model:
+      o Linear regression, Ridge regression, Lasso regression
 
 This dataset consists of reviews of fine foods from Amazon. The data span a period of more than 10 years,including reviews up to October 2012. Reviews include product and user information, ratings, and a plain text review. The data includes:   
 • Reviews from October 1999 – October 2012   
