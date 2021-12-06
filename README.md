@@ -1,7 +1,7 @@
 # Mini-Project-Amazon-Fine-Food-Reviews
 
 In this assignment, we were working with the Amazon Fine Food Reviews Dataset, we explored some NLP (natural language processing) techniques to 
-better understand the data, and you created a model that predicts the ‘Score’ column of the dataset.
+better understand the data, and created a model that predicts the ‘Score’ column of the dataset.
 
       We can only use the following prediction models, and report on the best model:
       o Linear regression, Ridge regression, Lasso regression
